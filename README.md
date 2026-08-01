@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Adarsh Namdeo Nalawade
+# Hi, I'm Adarsh Namdeo Nalawade
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Adarsh%20Namdeo%20Nalawade&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62"/>
