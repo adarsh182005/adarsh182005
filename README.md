@@ -200,17 +200,11 @@ public:
 
 ---
 
-# 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
-After setting up the GitHub Action:
-
-```html
 <p align="center">
 <img src="https://raw.githubusercontent.com/adarsh182005/adarsh182005/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
-```
-
----
 
 > "Programs must be written for people to read, and only incidentally for machines to execute."
 
