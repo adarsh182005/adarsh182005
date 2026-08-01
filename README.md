@@ -17,6 +17,14 @@
 <a href="https://github.com/adarsh182005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://leetcode.com/u/adrsh_nalawade/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
+<h3 align="center">
+Software Engineer • Full Stack Developer • AI & Embedded Systems
+</h3>
+
+<p align="center">
+Building scalable web applications, AI-powered tools, and IoT systems.
+Currently looking for Software Engineer opportunities.
+</p>
 
 ---
 
